@@ -1,0 +1,40 @@
+Test Cases for WhatsApp
+
+Title:	Creating Account on WhatsApp
+ID	Pre Req	Steps	Expected Result	Actual Result
+1001	User must have a registered Cell Phone Number, Sim must be placed in a phone and must be able to receive messages.
+1.	Connect your Phone to Network.
+2.	Open WhatsApp.
+3.	Click on Create Account Button.
+4.	Select your Country.
+5.	Enter Correct Phone NumberUser Will Receive a message on Sim to be pasted on WhatsApp.
+
+Message Received successfully and account created.
+
+
+
+1002	User must have a registered Cell Phone Number, Sim must be placed in a phone and must be able to receive messages.	
+1.	Connect your Phone to Network.
+2.	Open WhatsApp.
+3.	Click on Create Account Button.
+4.	Select any other country.
+5.	Enter Correct Phone Number
+
+User will not get message as he have selected  wrong country, he wouldn’t be able to create account.	
+
+No message received so couldn’t create account.
+
+
+
+1003	User must have a registered Cell Phone Number, Sim must be placed in a phone and must be able to receive messages.	
+1.	Connect your Phone to Network.
+2.	Open WhatsApp.
+3.	Click on Create Account Button.
+4.	Select any other country.
+5.	Enter Wrong  Phone Number	User will not get message as he have selected  wrong country, he wouldn’t be able to create account.
+
+No message received so couldn’t create account.
+				
+				
+				
+				
